@@ -4,7 +4,7 @@
 
 function myFunction(a){
 
-    return Object.values(a).reduce((total,value)=>total+=value)
+    return Object.values(a).reduce((total,value)=>total+=value);
 }
 
 
